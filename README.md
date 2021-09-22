@@ -10,9 +10,9 @@ Getting more & more excited about Data Engineering and the Cloud, and learning t
 
 ### 📫 Let's get in touch
 
-Email: sakovic.fx@gmail.com
-LinkedIn: [sakovic-jovan](https://www.linkedin.com/in/sakovic-jovan/)
-Twitter: [sakce_j](https://twitter.com/sakce_j)
+- Email: sakovic.fx@gmail.com
+- LinkedIn: [sakovic-jovan](https://www.linkedin.com/in/sakovic-jovan/)
+- Twitter: [sakce_j](https://twitter.com/sakce_j)
 
 If you'd like to take a peek at my resume, feel free to send a message! 📰
 <!-- This is still a WIP :P  -->

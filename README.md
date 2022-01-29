@@ -2,19 +2,16 @@
 
 Recent Data Science graduate from [Eindhoven University of Technology](https://www.tue.nl/en/) & [Tilburg University](https://www.tilburguniversity.edu/) 🇳🇱
 
-Getting more & more excited about Data Engineering and the Cloud, and learning technologies necessary for that ~ Docker, Airflow, dbt.
+Lately I've been deploying my data engineering services at [Tasman Analytics](https://tasman.ai) 🏗 
 
-🌍🌤️ Looking to work in cleantech, contributing to curbing the climate crisis. 🛑 
+🏎️🔌 Love watching Formula E (and 1, ofc), excited about venture capital 💰 and a burger 🍔 lover! 
 
-🏎️🔌 Love watching Formula E (and 1, ofc), and learning about venture capital! 💰 
+### 📫 Get in touch
 
-### 📫 Let's get in touch
-
-- Email: sakovic.fx@gmail.com
 - LinkedIn: [sakovic-jovan](https://www.linkedin.com/in/sakovic-jovan/)
 - Twitter: [sakce_j](https://twitter.com/sakce_j)
 
-If you'd like to take a peek at my resume, feel free to send a message! 📰
+If you'd like to take a peek at my CV, feel free to send a message! 📰
 <!-- This is still a WIP :P  -->
 <!-- <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" width="50"/>
 

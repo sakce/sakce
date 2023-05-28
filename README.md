@@ -1,10 +1,7 @@
 # Welcome! 🤠
 
-Recent Data Science graduate from [Eindhoven University of Technology](https://www.tue.nl/en/) & [Tilburg University](https://www.tilburguniversity.edu/) 🇳🇱
+Deploying my data engineering services at [Tasman Analytics](https://tasman.ai) 🏗 
 
-Lately I've been deploying my data engineering services at [Tasman Analytics](https://tasman.ai) 🏗 
-
-🏎️🔌 Love watching Formula E (and 1, ofc), excited about venture capital 💰 and a burger 🍔 lover! 
 
 ### 📫 Get in touch
 
@@ -28,6 +25,6 @@ If you'd like to take a peek at my CV, feel free to send a message! 📰
 
 <!--
 TODO:
-- make a portfolio on github.io
+- portfolio on github.io
 - 
 -->

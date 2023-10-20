@@ -2,13 +2,11 @@
 
 Deploying my data engineering services at [Tasman Analytics](https://tasman.ai) 🏗 
 
+Curious about most things tech, a productivity and shortcuts geek, increasingly interested in Cloud, DevOps and bringing the sustainability sphere into it all. 🌱🌲
 
-### 📫 Get in touch
+> **Get in touch**
+> Drop me a note in the [GH Issues of this README](https://github.com/sakce/sakce/issues) :)
 
-- LinkedIn: [sakovic-jovan](https://www.linkedin.com/in/sakovic-jovan/)
-- Twitter: [sakce_j](https://twitter.com/sakce_j)
-
-If you'd like to take a peek at my CV, feel free to send a message! 📰
 <!-- This is still a WIP :P  -->
 <!-- <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" width="50"/>
 
@@ -25,6 +23,5 @@ If you'd like to take a peek at my CV, feel free to send a message! 📰
 
 <!--
 TODO:
-- portfolio on github.io
-- 
+- [ ] reference to sakce.dev once it's up & running
 -->

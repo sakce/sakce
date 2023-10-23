@@ -4,8 +4,8 @@ Deploying my data engineering services at [Tasman Analytics](https://tasman.ai) 
 
 Curious about most things tech, a productivity and shortcuts geek, increasingly interested in Cloud, DevOps and bringing the sustainability sphere into it all. 🌱🌲
 
-> **Get in touch**
-> Drop me a note in the [GH Issues of this README](https://github.com/sakce/sakce/issues) :)
+> **Note**
+> Drop me a 👆 in the [GH Issues of this README](https://github.com/sakce/sakce/issues) :)
 
 <!-- This is still a WIP :P  -->
 <!-- <img src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" width="50"/>

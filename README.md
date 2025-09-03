@@ -1,8 +1,6 @@
 # Welcome! 🤠
 
-Deploying my data engineering services at [Tasman Analytics](https://tasman.ai) 🏗 
-
-Curious about most things tech, a productivity and shortcuts geek, increasingly interested in Cloud, DevOps and bringing the sustainability sphere into it all. 🌱🌲
+ClickHouse event organiser @ PostHog 🛠️
 
 > **Note**
 > Drop me a 👆 in the [GH Issues of this README](https://github.com/sakce/sakce/issues) :)
